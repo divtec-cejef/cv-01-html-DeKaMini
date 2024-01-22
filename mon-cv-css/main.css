@@ -2,16 +2,13 @@
     border: 2px red;
 }
 header {
-    .radial-ellipse-far {
-        background: radial-gradient(
+         background: radial-gradient(
                 ellipse farthest-corner,
                 red,
                 yellow 10%,
                 #1e90ff 50%,
                 beige
         );
-    }
-
 }
 
 body {
