@@ -1,6 +1,9 @@
 {
     border: 2px red;
 }
+header .lineaire-simple {
+    background: linear-gradient(blue, pink);
+}
 
 body {
     font-family: Arial, sans-serif;
