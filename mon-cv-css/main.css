@@ -2,7 +2,16 @@
     border: 2px red;
 }
 header {
-    background: linear-gradient(blue, pink);
+    .radial-ellipse-far {
+        background: radial-gradient(
+                ellipse farthest-corner,
+                red,
+                yellow 10%,
+                #1e90ff 50%,
+                beige
+        );
+    }
+
 }
 
 body {
