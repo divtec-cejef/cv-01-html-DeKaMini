@@ -27,6 +27,11 @@ img {
     width: auto;
 }
 
+#list-experience {
+    background-color: lightcyan;
+    padding: 36px;
+}
+
 a {
     color: rebeccapurple;
     text-decoration: none;
