@@ -4,7 +4,7 @@
 header {
          background: lightblue;
 }
-p.test1 {
+p {
     white-space: nowrap;
     width: 200px;
     border: 1px solid #000000;
