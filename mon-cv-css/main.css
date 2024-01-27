@@ -44,3 +44,7 @@ a:focus {
 a:hover {
     color: darkmagenta;
 }
+
+div {
+    animation-name: mymove;
+}
