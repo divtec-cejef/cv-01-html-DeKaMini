@@ -6,7 +6,7 @@ header {
 }
 #p-statut {
     white-space: nowrap;
-    width: auto;
+    width: 300px;
     border: 1px solid #000000;
     overflow: hidden;
     text-overflow: clip;
@@ -21,7 +21,7 @@ body {
 }
 
 img {
-    max-width: 50%;
+    max-width: 30%;
     height: auto;
     width: auto;
     border-bottom-left-radius:150px;
