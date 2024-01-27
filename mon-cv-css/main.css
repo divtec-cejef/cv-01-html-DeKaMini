@@ -6,7 +6,7 @@ header {
 }
 #p-statut {
     white-space: nowrap;
-    width: 260px;
+    width: auto;
     border: 1px solid #000000;
     overflow: hidden;
     text-overflow: clip;
