@@ -25,11 +25,9 @@ body {
 }
 
 h1 p {
-    white-space: nowrap;
-    width: 80px;
-    border: 1px solid #000000;
-    overflow: hidden;
-    text-overflow: clip;
+    background-color: black;
+    font-family: Neonderthaw, sans-serif;
+
 }
 
 img {
