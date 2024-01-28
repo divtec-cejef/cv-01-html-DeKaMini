@@ -2,6 +2,12 @@
 header {
          background: lightgoldenrodyellow;
 }
+
+h1 {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
+
 #p-statut {
     white-space: nowrap;
     width: 300px;
