@@ -10,6 +10,7 @@ h1 {
     margin-right: 25%;
     font-size: 400%;
     background-color: black;
+    border-radius: 40px;
 }
 
 #p-statut {
@@ -36,7 +37,9 @@ img {
     width: auto;
     border-bottom-left-radius:150px;
     border-top-right-radius: 150px;
-    padding:20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #list-experience {
