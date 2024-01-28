@@ -5,7 +5,11 @@ header {
 
 h1 {
     font-family:Neonderthaw, sans-serif;
-    font-size: 300%;
+    color: greenyellow;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 400%;
+    background-color: black;
 }
 
 #p-statut {
