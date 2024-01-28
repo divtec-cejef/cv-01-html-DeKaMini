@@ -16,6 +16,7 @@ body {
     font-weight: 600;
     font-size: 1.2rem;
     line-height: 1.4;
+    margin-left: 10%;
     color: darkblue;
     background-color: whitesmoke;
 }
@@ -52,6 +53,15 @@ hr {
     text-align: center;
     height: 5px;
 }
+
+hr::after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
 div {
     animation-name: mymove;
 }
