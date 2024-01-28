@@ -1,0 +1,78 @@
+
+header {
+         background: lightgoldenrodyellow;
+}
+
+h1 {
+    font-family:Neonderthaw, sans-serif;
+    color: greenyellow;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 400%;
+    background-color: black;
+    border-radius: 40px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: darkblue;
+    background-color: whitesmoke;
+}
+
+p {
+    background-color: black;
+    font-family: Neonderthaw, sans-serif;
+
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    width: auto;
+    border-bottom-left-radius:150px;
+    border-top-right-radius: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#list-experience {
+    background-color: lightcyan;
+    padding: 20px;
+}
+
+a {
+    color: rebeccapurple;
+    text-decoration: powderblue;
+}
+a:focus {
+    background-color: chartreuse;
+}
+a:hover {
+    color: orangered;
+}
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr::after {
+    background: #fff;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+div {
+    animation-name: mymove;
+}
